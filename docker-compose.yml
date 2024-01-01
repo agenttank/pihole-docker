@@ -18,5 +18,5 @@ services:
     volumes:
       - './etc-dnsmasq.d:/etc/dnsmasq.d'
       - './etc-pihole:/etc/pihole'
-      - './custom-list:/etc/pihole/custom-list'
+      - './custom.list:/etc/pihole/custom.list'
     restart: unless-stopped
