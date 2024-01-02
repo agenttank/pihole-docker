@@ -15,7 +15,7 @@
 192.168.10.25 stefanpc.pinter-net.at
 192.168.10.13 rpi-octoprint.pinter-net.at
 192.168.10.200 drucker.pinter-net.at
-192.168.45.208 dl.pinter-net.at
+192.168.11.254 dl.pinter-net.at
 192.168.45.2 zentyal.pinter-net.at
 192.168.11.254 hypervisor.pinter-net.at
 192.168.11.254 print.pinter-net.at
