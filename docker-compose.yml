@@ -18,7 +18,7 @@ services:
       WEBTHEME: 'default-darker'
     # Volumes store your data between container upgrades
     volumes:
-      - '/portainer/pihole-docker/volumes/etc-dnsmasq.d:/etc/dnsmasq.d'
-      - '/portainer/pihole-docker/volumes/etc-pihole:/etc/pihole'
-      - '/portainer/pihole-docker/custom.list:/etc/pihole/custom.list'
+      - './volumes/etc-dnsmasq.d:/etc/dnsmasq.d'
+      - './volumes/etc-pihole:/etc/pihole'
+      - './custom.list:/etc/pihole/custom.list'
     restart: unless-stopped
