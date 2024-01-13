@@ -37,3 +37,7 @@
 192.168.3.103 lxc3.pinter-net.at
 192.168.11.254 photo.pinter-net.at
 192.168.11.254 home.pinter-net.at
+192.168.11.254 radarr.pinter-net.at
+192.168.11.254 sonarr.pinter-net.at
+192.168.11.254 prowlarr.pinter-net.at
+
