@@ -2,6 +2,7 @@
 192.168.10.254 fw.pinter-net.at
 192.168.45.2 dc1.pinter-net.at
 80.109.218.159 cloud.pinter-net.at
+80.109.218.159 cat.pinter-net.at
 116.203.206.46 hetzner01.pinter-net.at
 116.203.206.46 imap.pinter-net.at
 80.109.218.159 media.pinter-net.at
