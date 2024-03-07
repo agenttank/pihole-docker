@@ -1,13 +1,13 @@
 192.168.45.208 mco.lbsg.net
 192.168.10.254 fw.pinter-net.at
 192.168.45.2 dc1.pinter-net.at
-80.109.218.159 cloud.pinter-net.at
-80.109.218.159 cat.pinter-net.at
+84.115.215.0 cloud.pinter-net.at
+84.115.215.0 cat.pinter-net.at
 116.203.206.46 hetzner01.pinter-net.at
 116.203.206.46 imap.pinter-net.at
-80.109.218.159 media.pinter-net.at
+84.115.215.0 media.pinter-net.at
 116.203.206.46 smtp.pinter-net.at
-80.109.218.159 vpn.pinter-net.at
+84.115.215.0 vpn.pinter-net.at
 192.168.45.3 hv3.pinter-net.at
 192.168.45.4 hv4.pinter-net.at
 192.168.10.21 rpi-tv.pinter-net.at
