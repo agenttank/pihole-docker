@@ -45,6 +45,7 @@
 192.168.11.254 radarr.pinter-net.at
 192.168.11.254 sonarr.pinter-net.at
 192.168.11.254 prowlarr.pinter-net.at
+192.168.11.254 lidarr.pinter-net.at
 192.168.11.254 overseerr.pinter-net.at
 192.168.11.254 anfragen.pinter-net.at
 192.168.45.10 k8sapi.pinter-net.at
