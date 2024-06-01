@@ -5,6 +5,7 @@
 116.203.206.46 imap.pinter-net.at
 116.203.206.46 smtp.pinter-net.at
 80.109.218.159 cloud.pinter-net.at
+80.109.218.159 photo.pinter-net.at
 80.109.218.159 cat.pinter-net.at
 116.203.206.46 hetzner01.pinter-net.at
 116.203.206.46 imap.pinter-net.at
@@ -40,7 +41,6 @@
 192.168.11.254 tdarr.pinter-net.at
 192.168.11.254 omv.pinter-net.at
 192.168.3.103 lxc3.pinter-net.at
-192.168.11.254 photo.pinter-net.at
 192.168.11.254 home.pinter-net.at
 192.168.11.254 radarr.pinter-net.at
 192.168.11.254 sonarr.pinter-net.at
