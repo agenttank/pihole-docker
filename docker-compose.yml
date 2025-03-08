@@ -17,6 +17,7 @@ services:
       FTLCONF_webserver_api_password: ${WEBPASSWORD}
       PIHOLE_DNS_: '1.1.1.1;8.8.8.8'
       WEBTHEME: 'default-darker'
+      FTLCONF_dns_listeningMode: 'all'
     # Volumes store your data between container upgrades
     volumes:
       - './volumes/etc-dnsmasq.d:/etc/dnsmasq.d'
