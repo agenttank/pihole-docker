@@ -14,6 +14,7 @@ services:
     environment:
       TZ: 'Europe/Vienna'
       WEBPASSWORD: ${WEBPASSWORD}
+      FTLCONF_webserver_api_password: ${WEBPASSWORD}
       PIHOLE_DNS_: '1.1.1.1;8.8.8.8'
       WEBTHEME: 'default-darker'
     # Volumes store your data between container upgrades
